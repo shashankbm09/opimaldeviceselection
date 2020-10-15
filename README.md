@@ -1,6 +1,6 @@
 # Optimal Device Selection in Spectrum Sharing Channel under Energy Harvesting Aided D2D Communication
 
-##Abstract
+## Abstract
 
 Spectrum sharing and device-to-device (D2D) communications are among the key enablers of
 the upcoming modern communication networks. These new technologies have gained widespread
@@ -25,8 +25,8 @@ proposed device selection model improves the primary secrecy performance while a
 secret transmission for the underlying EH-aided D2D communication.
 
 
-##Report
+## Report
 https://github.com/shashankbm09/opimaldeviceselection/blob/main/Report/Shashank_Murugesh_MEngg_Project_Report.pdf
 
-##Presentation
+## Presentation
 https://github.com/shashankbm09/opimaldeviceselection/blob/main/Report/Shashank_Murugesh_MEngg_Project_Handout.pdf

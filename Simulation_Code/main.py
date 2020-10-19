@@ -5,7 +5,6 @@ import pandas as pd
 from datetime import datetime
 import operator
 import csv
-import warnings; warnings.simplefilter('ignore')
 import argparse
 import time
 
